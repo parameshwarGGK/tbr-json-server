@@ -143,5 +143,617 @@
         }
       }
     ]
+  },
+  "project_categories": {
+    "meta": {},
+    "data": [
+      {
+        "id": 1,
+        "name": "Custom Project - Category 1",
+        "is_active": 1,
+        "created_at": "2019-12-13T12:00:43.000Z",
+        "updated_at": null,
+        "subcategories": [
+          {
+            "id": 1,
+            "name": "Custom Project - Sub Category 1",
+            "is_active": 1,
+            "created_at": "2019-12-13T12:26:11.000Z",
+            "updated_at": null,
+            "category_id": 1
+          },
+          {
+            "id": 2,
+            "name": "Custom Project - Sub Category 2",
+            "is_active": 1,
+            "created_at": "2019-12-13T12:26:11.000Z",
+            "updated_at": null,
+            "category_id": 1
+          },
+          {
+            "id": 3,
+            "name": "Custom Project - Sub Category 3",
+            "is_active": 1,
+            "created_at": "2019-12-13T12:26:11.000Z",
+            "updated_at": null,
+            "category_id": 1
+          },
+          {
+            "id": 4,
+            "name": "Custom Project - Sub Category 4",
+            "is_active": 1,
+            "created_at": "2019-12-13T12:26:11.000Z",
+            "updated_at": null,
+            "category_id": 1
+          },
+          {
+            "id": 24,
+            "name": "Custom Project - Sub Category 5",
+            "is_active": 1,
+            "created_at": "2019-12-13T12:26:11.000Z",
+            "updated_at": null,
+            "category_id": 1
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Custom Project - Category 2",
+        "is_active": 1,
+        "created_at": "2019-12-13T12:00:43.000Z",
+        "updated_at": null,
+        "subcategories": [
+          {
+            "id": 5,
+            "name": "Custom Project - Sub Category 6",
+            "is_active": 1,
+            "created_at": "2019-12-13T12:26:11.000Z",
+            "updated_at": null,
+            "category_id": 2
+          },
+          {
+            "id": 6,
+            "name": "Custom Project - Sub Category 7",
+            "is_active": 1,
+            "created_at": "2019-12-13T12:26:11.000Z",
+            "updated_at": null,
+            "category_id": 2
+          },
+          {
+            "id": 7,
+            "name": "Custom Project - Sub Category 8",
+            "is_active": 1,
+            "created_at": "2019-12-13T12:26:11.000Z",
+            "updated_at": null,
+            "category_id": 2
+          },
+          {
+            "id": 8,
+            "name": "Custom Project - Sub Category 9",
+            "is_active": 1,
+            "created_at": "2019-12-13T12:26:11.000Z",
+            "updated_at": null,
+            "category_id": 2
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Custom Project - Category 3",
+        "is_active": 1,
+        "created_at": "2019-12-13T12:00:43.000Z",
+        "updated_at": null,
+        "subcategories": [
+          {
+            "id": 9,
+            "name": "Custom Project - Sub Category 10",
+            "is_active": 1,
+            "created_at": "2019-12-13T12:26:11.000Z",
+            "updated_at": null,
+            "category_id": 3
+          },
+          {
+            "id": 10,
+            "name": "Custom Project - Sub Category 11",
+            "is_active": 1,
+            "created_at": "2019-12-13T12:26:11.000Z",
+            "updated_at": null,
+            "category_id": 3
+          },
+          {
+            "id": 11,
+            "name": "Custom Project - Sub Category 12",
+            "is_active": 1,
+            "created_at": "2019-12-13T12:26:11.000Z",
+            "updated_at": null,
+            "category_id": 3
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Custom Project - Category 4",
+        "is_active": 1,
+        "created_at": "2019-12-13T12:00:43.000Z",
+        "updated_at": null,
+        "subcategories": [
+          {
+            "id": 12,
+            "name": "Custom Project - Sub Category 13",
+            "is_active": 1,
+            "created_at": "2019-12-13T12:26:11.000Z",
+            "updated_at": null,
+            "category_id": 4
+          },
+          {
+            "id": 13,
+            "name": "Custom Project - Sub Category 14",
+            "is_active": 1,
+            "created_at": "2019-12-13T12:26:11.000Z",
+            "updated_at": null,
+            "category_id": 4
+          },
+          {
+            "id": 14,
+            "name": "Custom Project - Sub Category 15",
+            "is_active": 1,
+            "created_at": "2019-12-13T12:26:11.000Z",
+            "updated_at": null,
+            "category_id": 4
+          },
+          {
+            "id": 15,
+            "name": "Custom Project - Sub Category 16",
+            "is_active": 1,
+            "created_at": "2019-12-13T12:26:11.000Z",
+            "updated_at": null,
+            "category_id": 4
+          },
+          {
+            "id": 16,
+            "name": "Custom Project - Sub Category 17",
+            "is_active": 1,
+            "created_at": "2019-12-13T12:26:11.000Z",
+            "updated_at": null,
+            "category_id": 4
+          },
+          {
+            "id": 17,
+            "name": "Custom Project - Sub Category 18",
+            "is_active": 1,
+            "created_at": "2019-12-13T12:26:11.000Z",
+            "updated_at": null,
+            "category_id": 4
+          },
+          {
+            "id": 18,
+            "name": "Custom Project - Sub Category 19",
+            "is_active": 1,
+            "created_at": "2019-12-13T12:26:11.000Z",
+            "updated_at": null,
+            "category_id": 4
+          }
+        ]
+      }
+    ]
+  },
+  "project_content": {
+    "meta": {},
+    "data": [
+      {
+        "id": 230,
+        "data": "{\"tbr_position_graph\":{\"type\":\"text\",\"value\":\"<p><strong>TBR Assessment</strong></p>\\n<p>Accenture&rsquo;s cloud business continues to grow at a double-digit rate, entering a maturation phase as the company seeks to solidify relationships with key technology partners. This evolution and investments supporting the company&rsquo;s multicloud management strategy should play in Accenture&rsquo;s favor as TBR&rsquo;s research suggests that the pendulum has swung back and the IT buyer is again in the driver&rsquo;s seat when it comes to cloud and emerging technology purchases. While the C-Suite and line-of-business leaders are still directly involved, the complexities of multicloud architecture management require the expertise of IT. As such, Accenture&rsquo;s legacy relationship with the CIO&rsquo;s office, coupled with its investments in certified delivery personnel and emerging technologies, positions the company to sustain its cloud growth momentum.</p>\"},\"tbr_position_description\":{\"type\":\"text\",\"value\":\"<p><img src=\\\"https://tbr-ggk.s3.us-east-2.amazonaws.com/production/acc1-9552-1583169120580.edU5p05VV3V3TVdX\\\" alt=\\\"\\\" width=\\\"503\\\" height=\\\"249\\\" /></p>\",\"imageName\":\"tbr_graph.png\"}}",
+        "subcategory_title": "Supporting multicloud environments through automated, suitable IP and certified staff will help advance Accenture’s evolving relationship with IT",
+        "published_date": "2020-02-22T14:04:56.000Z",
+        "template_id": 24,
+        "subcategory_id": 1,
+        "created_by": 1,
+        "updated_by": 1,
+        "deleted_by": null,
+        "created_at": "2020-02-21T14:14:09.000Z",
+        "updated_at": null,
+        "deleted_at": null,
+        "template": {
+          "id": 24,
+          "name": "TBR Position",
+          "content": "<div class=\"row\">\n \t<div class=\"col-lg-12\">\n \t\t{tbr_position_graph}\n\t\t{tbr_position_description}\n \t</div>\n </div>",
+          "subcategory_id": 1,
+          "is_active": 1,
+          "created_at": "2020-01-28T17:35:57.000Z",
+          "updated_at": null
+        }
+      },
+      {
+        "id": 235,
+        "data": "{\"strategic_outlook_description\":{\"type\":\"text\",\"value\":\"<p><strong>Increase the number of cloud experts and invest in employee training to enhance industry-specific expertise</strong></p>\\n<p>Building out a cloud-certified delivery bench with skills in SAP, Oracle, Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform, Workday, ServiceNow, Pegasystems, Salesforce and Alibaba Cloud enables Accenture to better compete for application migration and modernization opportunities, in line with the company&rsquo;s successful corporate-level approach to platform-based service delivery. The relationship extension with Google Cloud, including services expansion in Indonesia and the acquisition of Google Cloud vendor Cirruseo, as well as Accenture&rsquo;s ongoing investments in its apprenticeship program are the latest examples of how the company is striving to build a bench that can operate in multicloud environments.</p>\"},\"strategic_outlook_graph\":{\"type\":\"text\",\"value\":\"<p><strong>Provide cloud services covering the design, build and run life cycle </strong></p>\\n<p>Broad-based investments supporting AI and cloud initiatives, including the purchase of Spain-based Pragsis Bidoop and the increased use of automation tools such as myWizard and platforms such as myConcerto, combined with the expansion of Accenture&rsquo;s Liquid Studios network and cybersecurity capabilities, highlight the company&rsquo;s efforts to enhance its cloud portfolio and better compete for opportunities in cloud brokerage and automated data governance. Nontraditional competitors, including software-led vendors, have been building out their services capabilities to offer value-added services while keeping software costs at bay, challenging Accenture&rsquo;s packaging and pricing strategies.</p>\"},\"strategic_section_financial_title\":{\"type\":\"text\",\"value\":\"\"},\"strategic_section_financial_published_date\":{\"type\":\"text\",\"value\":\"<p><strong>Financial</strong></p>\"},\"strategic_section_financial_description\":{\"type\":\"text\",\"value\":\"<p>Accenture&rsquo;s cloud business will continue to expand, albeit at a slower rate, as the company benefits from its established brand and ability to cross-sell and upsell to clients running their businesses in hybrid IT environments.</p>\"},\"strategic_section_go_to_market_title\":{\"type\":\"text\",\"value\":\"\"},\"strategic_section_go_to_market_published_date\":{\"type\":\"text\",\"value\":\"<p><strong>Go to Market</strong></p>\"},\"strategic_section_go_to_market_description\":{\"type\":\"text\",\"value\":\"<p>Serving as customer zero, combined with deepening relationships with key cloud infrastructure vendors, will help Accenture drive tangible cloud migration opportunities at scale, with S/4HANA being a key contributor.</p>\"},\"strategic_section_resource_title\":{\"type\":\"text\",\"value\":\"\"},\"strategic_section_resource_published_date\":{\"type\":\"text\",\"value\":\"<p><strong>Resource</strong></p>\"},\"strategic_section_resource_description\":{\"type\":\"text\",\"value\":\"<p>Hiring and acquiring certified talent who can operate in hybrid IT environments enhances Accenture&rsquo;s value proposition. Cloud resources made up 17.6% of corporate headcount in 3Q19.</p>\"}}",
+        "subcategory_title": "With a robust legacy client base and deep relationships with key technology partners, Accenture’s cloud business will continue to flourish",
+        "published_date": "2020-03-02T17:12:37.000Z",
+        "template_id": 25,
+        "subcategory_id": 2,
+        "created_by": 1,
+        "updated_by": null,
+        "deleted_by": null,
+        "created_at": "2020-03-02T19:36:12.000Z",
+        "updated_at": null,
+        "deleted_at": null,
+        "template": {
+          "id": 25,
+          "name": "strategic outlook",
+          "content": "\n<div class=\"row\">\n\t<div class=\"col-xl-6\">\n\t\t{strategic_outlook_description}\n\t</div>\n\t<div class=\"col-xl-6\">\n\t\t{strategic_outlook_graph}\n\t</div>\n</div>\n<div class=\"row\">\n\t<div class=\"col-sm-4\">\n\t\t<h3>{strategic_section_financial_title}\n\t\t\t<span>{strategic_section_financial_published_date}</span>\n\t\t</h3>\n\t\t<div>\n\t\t\t{strategic_section_financial_description}\n\t\t</div>\n\t</div>\n\t<div class=\"col-sm-4\">\n\t\t<h3>{strategic_section_go_to_market_title}\n\t\t\t<span>{strategic_section_go_to_market_published_date}</span>\n\t\t</h3>\n\t\t<div>\n\t\t\t{strategic_section_go_to_market_description}\n\t\t</div>\n\t</div>\n\t<div class=\"col-sm-4\">\n\t\t<h3>{strategic_section_resource_title}\n\t\t\t<span>{strategic_section_resource_published_date}</span>\n\t\t</h3>\n\t\t<div>\n\t\t\t{strategic_section_resource_description}\n\t\t</div>\n\t</div>\n</div>",
+          "subcategory_id": 2,
+          "is_active": 1,
+          "created_at": "2020-01-28T17:37:59.000Z",
+          "updated_at": null
+        }
+      },
+      {
+        "id": 238,
+        "data": "{\"strategic_outlook_description\":{\"type\":\"text\",\"value\":\"<p>Although growth has decelerated compared to CY17 and CY18, Accenture&rsquo;s cloud business will continue to grow at a double-digit rate through CY20, as the company capitalizes on its position with key cloud stakeholders as well as investments in skills and portfolio offerings to support multicloud environments. Accenture will continue to adopt many of the cloud-based frameworks to support its own IT transformation, allowing it to build a robust use case with the necessary depth and scale to appeal to enterprise-level clients. While Accenture will continue to generate a fair amount of business from Oracle cloud migration and Salesforce implementation services, SAP Business Suite 4 HANA (S/4HANA) migration will likely be one of the single-largest opportunities for Accenture over the next few years, given its large legacy client install base and SAP&rsquo;s deadline for ending support of SAP R3, which will compel clients to move to S/4HANA by 2025. Accenture&rsquo;s deep relationships with cloud infrastructure providers including AWS, Microsoft and Google place the company among the front-runners for SAP applications workload management. Attaining, upskilling and retaining talent with skills and certifications that allow Accenture to manage assets in hybrid IT will support the company&rsquo;s efforts to build a sustainable nonlinear growth model.</p>\"},\"strategic_outlook_graph\":{\"type\":\"text\",\"value\":\"<p><img src=\\\"https://tbr-ggk.s3.us-east-2.amazonaws.com/production/acc2-10407-1583177764214.UpTcltZWxppGlpJN2jrz7N9DRUV3XXX\\\" alt=\\\"\\\" /></p>\"},\"strategic_section_financial_title\":{\"type\":\"empty\",\"value\":\"\"},\"strategic_section_financial_published_date\":{\"type\":\"empty\",\"value\":\"\"},\"strategic_section_financial_description\":{\"type\":\"empty\",\"value\":\"\"},\"strategic_section_go_to_market_title\":{\"type\":\"empty\",\"value\":\"\"},\"strategic_section_go_to_market_published_date\":{\"type\":\"empty\",\"value\":\"\"},\"strategic_section_go_to_market_description\":{\"type\":\"empty\",\"value\":\"\"},\"strategic_section_resource_title\":{\"type\":\"empty\",\"value\":\"\"},\"strategic_section_resource_published_date\":{\"type\":\"empty\",\"value\":\"\"},\"strategic_section_resource_description\":{\"type\":\"empty\",\"value\":\"\"}}",
+        "subcategory_title": "",
+        "published_date": "2020-03-02T19:35:30.000Z",
+        "template_id": 25,
+        "subcategory_id": 2,
+        "created_by": 1,
+        "updated_by": null,
+        "deleted_by": null,
+        "created_at": "2020-03-02T19:36:12.000Z",
+        "updated_at": null,
+        "deleted_at": null,
+        "template": {
+          "id": 25,
+          "name": "strategic outlook",
+          "content": "\n<div class=\"row\">\n\t<div class=\"col-xl-6\">\n\t\t{strategic_outlook_description}\n\t</div>\n\t<div class=\"col-xl-6\">\n\t\t{strategic_outlook_graph}\n\t</div>\n</div>\n<div class=\"row\">\n\t<div class=\"col-sm-4\">\n\t\t<h3>{strategic_section_financial_title}\n\t\t\t<span>{strategic_section_financial_published_date}</span>\n\t\t</h3>\n\t\t<div>\n\t\t\t{strategic_section_financial_description}\n\t\t</div>\n\t</div>\n\t<div class=\"col-sm-4\">\n\t\t<h3>{strategic_section_go_to_market_title}\n\t\t\t<span>{strategic_section_go_to_market_published_date}</span>\n\t\t</h3>\n\t\t<div>\n\t\t\t{strategic_section_go_to_market_description}\n\t\t</div>\n\t</div>\n\t<div class=\"col-sm-4\">\n\t\t<h3>{strategic_section_resource_title}\n\t\t\t<span>{strategic_section_resource_published_date}</span>\n\t\t</h3>\n\t\t<div>\n\t\t\t{strategic_section_resource_description}\n\t\t</div>\n\t</div>\n</div>",
+          "subcategory_id": 2,
+          "is_active": 1,
+          "created_at": "2020-01-28T17:37:59.000Z",
+          "updated_at": null
+        }
+      },
+      {
+        "id": 239,
+        "data": "{\"strategic_initiatives_revenue_title\":{\"type\":\"text\",\"value\":\"<p><strong>Overall </strong><strong>Strategy</strong></p>\"},\"strategic_initiatives_revenue_description\":{\"type\":\"text\",\"value\":\"<p><strong>Objective</strong>: Capture cloud brokerage and integration opportunities while developing &ldquo;as a Service&rdquo; offerings to complement C&amp;SI services with a steady revenue stream</p>\\n<p><strong>Assessment</strong>: Accenture positions as an end-to-end, innovation-led cloud IT services provider, which enables the company to fulfill its role as a cloud broker and integrator, particularly when capturing demand for C&amp;SI services supporting its Cloud Native framework. The company&rsquo;s permission to play at the C-Suite level, ability to address security concerns around migrating IT to cloud environments, strong innovation agenda, and partnerships with leading cloud and technology providers enhance its cloud business value proposition. Expanding industry-specific &ldquo;as a Service&rdquo; offerings, automation-embedded tools and standardized delivery frameworks allows client-facing teams to quickly launch pilot projects and/or customize solutions for client needs.</p>\"},\"strategic_initiatives_venture_title\":{\"type\":\"text\",\"value\":\"<p><strong>Financial Strategy</strong></p>\"},\"strategic_initiatives_venture_description\":{\"type\":\"text\",\"value\":\"<p><strong>Objective</strong>: Grow cloud revenue at a high-double-digit rate in CY20. Invest in cloud portfolio and talent, albeit at the expense of cloud margins, which are likely to fall below the corporate target range of 14.7% to 14.9% in FY20</p>\\n<p><strong>Assessment</strong>: Accenture&rsquo;s cloud revenue grew 20.4% year-to-year in 3Q19, according to TBR estimates, as the cloud business benefits from the company&rsquo;s corporate initiative of generating more than 65% of revenue from its &ldquo;the new&rdquo; portfolio, including digital, cloud and security services as well as investments in new frameworks such as Intelligent Cloud &amp; Infrastructure (ICI), which provides a conduit for managed services opportunities. Ongoing investments in the Accenture Cloud Platform (ACP) and other proprietary IP such as myConcerto, SynOps and Applied Intelligence Platform, combined with a steady acquisition strategy and plans to reskill talent to add depth to its cloud bench, could pressure margins. However, Accenture increasingly deploys automation and AI technologies into services delivery, which helps to offset expenses.</p>\"},\"strategic_initiatives_business_title\":{\"type\":\"text\",\"value\":\"<p><strong>Go-to-market</strong><strong> Strategy</strong></p>\"},\"strategic_initiatives_business_description\":{\"type\":\"text\",\"value\":\"<p><strong>Objective</strong>: Lead with industry-specific expertise, which allows cloud consultants to expand business with existing clients and target new logos</p>\\n<p><strong>Assessment</strong>: Pairing industry-versed business consultants from Accenture Strategy and Accenture Consulting with technology consultants in Accenture Security helps the company differentiate its value proposition in client discussions as security remains a top concern of CxOs when adopting cloud. During FY19 Accenture Security generated $2.5 billion in sales, illustrating the success of blending business capabilities. While the company mainly serves large enterprises, Accenture may be enticed to work more with midsize businesses, such as testing new offerings with SMBs before bringing them to scale, particularly as automation becomes more embedded into services delivery and Accenture Ventures cultivates relationships with startups.</p>\"},\"strategic_initiatives_scope_title\":{\"type\":\"text\",\"value\":\"<p><strong>Resource Strategy</strong></p>\"},\"strategic_initiatives_scope_description\":{\"type\":\"text\",\"value\":\"<p><strong>Objective</strong>: Reskill Accenture Technology and Operations talent to support delivery of cloud services; hire and acquire to expand local market capabilities</p>\\n<p><strong>Assessment</strong>: As expanding headcount with skills in &ldquo;the new&rdquo; to meet the need to operate in hybrid IT remains a priority for Accenture, as evidenced by corporate headcount growth of 7.2% year-to-year in 3Q19, its cloud team continues to grow at a double-digit rate (16.7%) and reached 84,000 professionals during the quarter. Investing in training and reskilling employees leveraging AI-based tools including Accenture Future Talent Platform and Accenture Connected Learning Platform in areas such as cloud migration and cloud management helps retain employees while also reducing the nonbillable time and costs associated with running classroom trainings. As Accenture pursues purchases to augment hiring efforts in local markets (e.g., Fairway Technologies in the U.S. and Cirruseo in France) and in support of its team, we expect the company will need to practice strict talent management as the 492,292-employee organization engulfs small, acqui-hire and/or startup-size firms and attrition continues to climb, reaching 19% in 3Q19.</p>\"}}",
+        "subcategory_title": "Accenture’s broad-based cloud capabilities, from cloud broker to ‘as a Service’ provider, diversify its cloud revenue streams",
+        "published_date": "2020-03-02T19:36:51.000Z",
+        "template_id": 26,
+        "subcategory_id": 3,
+        "created_by": 1,
+        "updated_by": null,
+        "deleted_by": null,
+        "created_at": "2020-03-02T19:42:52.000Z",
+        "updated_at": null,
+        "deleted_at": null,
+        "template": {
+          "id": 26,
+          "name": "strategic initiatives",
+          "content": "<div class=\"row\">\n\t<div class=\"col-md-6 mb-3\">\n\t\t<h5><b>{strategic_initiatives_revenue_title}</b></h5>\n\t\t<div>\n\t\t\t{strategic_initiatives_revenue_description}\n\t\t</div>\n\t</div>\n\t<div class=\"col-md-6 mb-3\">\n\t\t<h5><b>{strategic_initiatives_venture_title}</b></h5>\n\t\t<div>\n\t\t\t{strategic_initiatives_venture_description}\n\t\t</div>\n\t</div>\n\t<div class=\"col-md-6 mb-3\">\n\t\t<h5><b>{strategic_initiatives_business_title}</b></h5>\n\t\t<div>\n\t\t\t{strategic_initiatives_business_description}\n\t\t</div>\n\t</div>\n\t<div class=\"col-md-6 mb-3\">\n\t\t<h5><b>{strategic_initiatives_scope_title}</b></h5>\n\t\t<div>\n\t\t\t{strategic_initiatives_scope_description}\n\t\t</div>\n\t</div>\n</div>",
+          "subcategory_id": 3,
+          "is_active": 1,
+          "created_at": "2020-01-28T17:40:45.000Z",
+          "updated_at": null
+        }
+      },
+      {
+        "id": 240,
+        "data": "{\"swot_analysis_section_strength_icon\":{\"type\":\"empty\",\"value\":\"\"},\"swot_analysis_section_strength_title\":{\"type\":\"text\",\"value\":\"<p><strong>STRENGTH</strong></p>\"},\"swot_analysis_section_strength_description\":{\"type\":\"text\",\"value\":\"<p>Deep industry and functional expertise has enabled Accenture to work on more than 25,000 cloud projects, which enhances the company&rsquo;s value proposition when competing for cloud and/or larger digital transformation (DT) contracts.</p>\\n<p>The Accenture Innovation Architecture speeds development and delivery of cloud offerings at scale. Its industrialized delivery approach to cloud migration enables competitive pricing.</p>\\n<p>Accenture invested early in scaling its Cloud Application team, placing the company well ahead of competitors that are currently playing catch-up.</p>\"},\"swot_analysis_section_opportunities_icon\":{\"type\":\"empty\",\"value\":\"\"},\"swot_analysis_section_opportunities_title\":{\"type\":\"text\",\"value\":\"<p><strong>OPPORTUNITY</strong></p>\"},\"swot_analysis_section_opportunities_description\":{\"type\":\"text\",\"value\":\"<p>Leverage proprietary platforms such as myConcerto&rsquo;s enhanced customer experience (CX) capabilities through the integration of Qualtrics&rsquo; EmployeeXM suite to automate BPaaS opportunities.</p>\\n<p>Utilizing the Accenture Cloud Platform as one of the key solutions within its ICI framework positions Accenture to win deals around the implementation and management of multicloud management solutions.</p>\\n<p>Nurturing relationships with large technology vendors, such as through the expansion of Accenture Google Cloud Business Group (AGBG), positions Accenture to gain exclusive access to the IP and skills needed to build scalable offerings.</p>\\n<p>Investing in emerging areas such as blockchain, quantum and cybersecurity enables Accenture to cross-sell cloud services.</p>\"},\"swot_analysis_section_weakness_icon\":{\"type\":\"empty\",\"value\":\"\"},\"swot_analysis_section_weakness_title\":{\"type\":\"text\",\"value\":\"<p><strong>WEAKNESS</strong></p>\"},\"swot_analysis_section_weakness_description\":{\"type\":\"text\",\"value\":\"<p>Accenture&rsquo;s margin performance is pressured by upfront investments required to deploy employees and build facilities that support cloud solutions.</p>\\n<p>Although Accenture is expanding its physical presence in nearshore and on-site hubs, this can be a double-edged sword if solutions are not priced competitively.</p>\"},\"swot_analysis_section_threats_icon\":{\"type\":\"empty\",\"value\":\"\"},\"swot_analysis_section_threats_title\":{\"type\":\"text\",\"value\":\"<p><strong>THREAT</strong></p>\"},\"swot_analysis_section_threats_description\":{\"type\":\"text\",\"value\":\"<p>IT services vendors appealing to business and IT decision makers by focusing on business outcomes may erode Accenture&rsquo;s competitive position.</p>\\n<p>Rivals with native technology DNA, such as IBM and VMware, are also investing in multicloud management solutions, pressuring Accenture to differentiate.</p>\"}}",
+        "subcategory_title": "myConcerto and AGBG frameworks expansion highlight Accenture’s approach to differentiating in a crowded cloud market",
+        "published_date": "2020-03-02T19:40:46.000Z",
+        "template_id": 39,
+        "subcategory_id": 12,
+        "created_by": 1,
+        "updated_by": null,
+        "deleted_by": null,
+        "created_at": "2020-03-02T19:42:52.000Z",
+        "updated_at": null,
+        "deleted_at": null,
+        "template": {
+          "id": 39,
+          "name": "SWOT References",
+          "content": "<div class=\"row\">\n \t<div class=\"col-md-6 mb-3\">\n \t\t<h5 class=\"text_icon\">{swot_analysis_section_strength_icon} {swot_analysis_section_strength_title}</h5>\n \t\t<div>\n \t\t\t{swot_analysis_section_strength_description}\n \t\t</div>\n \t</div>\n \t<div class=\"col-md-6 mb-3\">\n \t\t<h5 class=\"text_icon\">{swot_analysis_section_opportunities_icon} {swot_analysis_section_opportunities_title}</h5>\n \t\t<div>\n \t\t\t{swot_analysis_section_opportunities_description}\n \t\t</div>\n \t</div>\n \t<div class=\"col-md-6 mb-3\">\n \t\t<h5 class=\"text_icon\">{swot_analysis_section_weakness_icon} {swot_analysis_section_weakness_title}</h5>\n \t\t<div>\n \t\t\t{swot_analysis_section_weakness_description}\n \t\t</div>\n \t</div>\n \t<div class=\"col-md-6 mb-3\">\n \t\t<h5 class=\"text_icon\">{swot_analysis_section_threats_icon} {swot_analysis_section_threats_title}</h5>\n \t\t<div>\n \t\t\t{swot_analysis_section_threats_description}\n \t\t</div>\n \t</div>\n </div>",
+          "subcategory_id": 12,
+          "is_active": 1,
+          "created_at": "2020-01-29T11:47:48.000Z",
+          "updated_at": null
+        }
+      },
+      {
+        "id": 241,
+        "data": "{\"scenario_discussions_section_strengths_icon\":{\"type\":\"empty\",\"value\":\"\"},\"scenario_discussions_section_strengths_title\":{\"type\":\"text\",\"value\":\"<p><strong>Strength:</strong></p>\"},\"scenario_discussions_section_strengths_description\":{\"type\":\"text\",\"value\":\"<p>Accenture maintains a network of over 150 alliance partners.</p>\"},\"scenario_discussions_section_weakness_icon\":{\"type\":\"empty\",\"value\":\"\"},\"scenario_discussions_section_weakness_title\":{\"type\":\"text\",\"value\":\"<p><strong>Weakness:</strong></p>\"},\"scenario_discussions_section_weakness_description\":{\"type\":\"text\",\"value\":\"<p>Overreliance on alliance partners could pressure performance if revenue-sharing opportunities are not properly scoped.</p>\"},\"scenario_discussions_section_opportunities_icon\":{\"type\":\"empty\",\"value\":\"\"},\"scenario_discussions_section_opportunities_title\":{\"type\":\"text\",\"value\":\"<p><strong>Opportunity:</strong></p>\"},\"scenario_discussions_section_opportunities_description\":{\"type\":\"text\",\"value\":\"<p>Leverage legacy tech partners&rsquo; client bases to cross-sell and upsell &ldquo;as a Service&rdquo; solutions while minimizing risk from investing in R&amp;D.</p>\"},\"scenario_discussions_section_threats_icon\":{\"type\":\"empty\",\"value\":\"\"},\"scenario_discussions_section_threats_title\":{\"type\":\"text\",\"value\":\"<p><strong>Threat:</strong></p>\"},\"scenario_discussions_section_threats_description\":{\"type\":\"text\",\"value\":\"<p>Many of Accenture&rsquo;s systems integration (SI) rivals also maintain strong relationships with tech partners, with all leveraging core strengths, from Infosys&rsquo; lower price points to Deloitte&rsquo;s higher-level consulting, to differentiate.</p>\"},\"scenario_discussions_section_scenario_title\":{\"type\":\"text\",\"value\":\"<p><strong>Scenario Discussion: Accenture acquires Google Cloud provider Cirruseo in France and expands Google Cloud Platform (GCP) service offerings in Indonesia</strong></p>\"},\"scenario_discussions_section_scenario_description\":{\"type\":\"text\",\"value\":\"<p>As Accenture relies on five core partners, SAP, Oracle, Microsoft, Salesforce and Workday, which help it drive around 40% of total corporate revenue through platform-based services, the company has increasingly invested in deepening its relationship in the cloud market with Google Cloud. Earlier in 2019, Accenture furthered its relationship with Google Cloud around co-creating AI-centric solutions that enable multichannel customer interactions by leveraging Google Cloud&rsquo;s Contact Center AI solution, which targets clients in the financial services, insurance, energy, utilities, travel, retail, communications, and media and technology industries. Deloitte manages a similar relationship with Google Cloud, challenging Accenture to differentiate. Accenture also acquired France-based Google Cloud shop Cirruseo and its 100 employees and most recently expanded AGBG services into Indonesia. While Accenture has the smallest practice in terms of certified resources compared to AWS and Microsoft, the company&rsquo;s aggressive approach to building its Google Cloud capabilities adds a node to its multicloud management strategy. While many other traditional rivals have recently partnered with Google Cloud, mainly around Kubernetes offerings, Accenture should pay closer attention to newer rivals such as Atos, which has also invested heavily in its relationship with Google Cloud.</p>\"}}",
+        "subcategory_title": "Accenture doubles down on Google Cloud, adding another node to its multicloud management strategy",
+        "published_date": "2020-03-02T19:42:58.000Z",
+        "template_id": 27,
+        "subcategory_id": 4,
+        "created_by": 1,
+        "updated_by": null,
+        "deleted_by": null,
+        "created_at": "2020-03-02T19:44:58.000Z",
+        "updated_at": null,
+        "deleted_at": null,
+        "template": {
+          "id": 27,
+          "name": "Current Scenarios",
+          "content": "<div class=\"row\">\n    <div class=\"tbr_position col-12\">\n       <div class=\"row\">\n          <div class=\"col-sm-4\">\n             <div class=\"col-sm-12\">\n                <h3 class=\"text_icon\">{scenario_discussions_section_strengths_icon} {scenario_discussions_section_strengths_title}</h3>\n                <div>\n                   {scenario_discussions_section_strengths_description}\n                </div>\n             </div>\n             <div class=\"col-sm-12\">\n                <h3 class=\"text_icon\">{scenario_discussions_section_weakness_icon} {scenario_discussions_section_weakness_title}</h3>\n                <div>\n                   {scenario_discussions_section_weakness_description}\n                </div>\n             </div>\n             <div class=\"col-sm-12\">\n                <h3 class=\"text_icon\">{scenario_discussions_section_opportunities_icon} {scenario_discussions_section_opportunities_title}</h3>\n                <div>\n                   {scenario_discussions_section_opportunities_description}\n                </div>\n             </div>\n             <div class=\"col-sm-12\">\n                <h3 class=\"text_icon\">{scenario_discussions_section_threats_icon} {scenario_discussions_section_threats_title}</h3>\n                <div>\n                   {scenario_discussions_section_threats_description}\n                </div>\n             </div>\n          </div>\n          <div class=\"col-sm-8\">\n             <h3>{scenario_discussions_section_scenario_title}</h3>\n             <div>\n                {scenario_discussions_section_scenario_description}\n             </div>\n          </div>\n       </div>\n    </div>\n </div>",
+          "subcategory_id": 4,
+          "is_active": 1,
+          "created_at": "2020-01-28T17:46:36.000Z",
+          "updated_at": null
+        }
+      },
+      {
+        "id": 242,
+        "data": "{\"scenario_discussions_section_strengths_icon\":{\"type\":\"empty\",\"value\":\"\"},\"scenario_discussions_section_strengths_title\":{\"type\":\"empty\",\"value\":\"\"},\"scenario_discussions_section_strengths_description\":{\"type\":\"text\",\"value\":\"<p>During the <a href=\\\"https://tbri.com/special-reports/accenture-solutions-broker/\\\" target=\\\"_blank\\\" rel=\\\"noopener\\\"><span style=\\\"color: #3598db;\\\">Accenture Industry Analyst Conference</span></a> in May, TBR met with Accenture Security Lead Kelly Bissell, who was quick to describe where he sees the company&rsquo;s security practice in five years, what specific areas he anticipates will change significantly and where Accenture will see the most growth. As security is the connective tissue across the global organization, the company benefits from Accenture Security leadership&rsquo;s long-term vision and, to date, the unit&rsquo;s successful performance. Accenture Security generated $2.5 billion in FY19, up from $2 billion in FY18.</p>\"},\"scenario_discussions_section_weakness_icon\":{\"type\":\"empty\",\"value\":\"\"},\"scenario_discussions_section_weakness_title\":{\"type\":\"empty\",\"value\":\"\"},\"scenario_discussions_section_weakness_description\":{\"type\":\"empty\",\"value\":\"\"},\"scenario_discussions_section_opportunities_icon\":{\"type\":\"empty\",\"value\":\"\"},\"scenario_discussions_section_opportunities_title\":{\"type\":\"empty\",\"value\":\"\"},\"scenario_discussions_section_opportunities_description\":{\"type\":\"empty\",\"value\":\"\"},\"scenario_discussions_section_threats_icon\":{\"type\":\"empty\",\"value\":\"\"},\"scenario_discussions_section_threats_title\":{\"type\":\"empty\",\"value\":\"\"},\"scenario_discussions_section_threats_description\":{\"type\":\"empty\",\"value\":\"\"},\"scenario_discussions_section_scenario_title\":{\"type\":\"text\",\"value\":\"<p><strong>Scenario</strong><strong> Discussion: </strong><strong>Accenture Security remains a key pillar in solidifying Accenture&rsquo;s cloud business performance</strong></p>\"},\"scenario_discussions_section_scenario_description\":{\"type\":\"text\",\"value\":\"<p>Concerns around securing sensitive data and/or managing mission-critical application workloads remain at the forefront of many cloud buyers&rsquo; agendas when selecting public versus private cloud, thus compelling vendors to invest in security capabilities to remain relevant. As Accenture builds the breadth and depth of the &ldquo;next new&rdquo; service areas, including quantum computing, blockchain and AI, the company ensures its cybersecurity capabilities stay relevant. Accenture Security maintains its global leadership and P&amp;L and permeates every discussion Accenture carries with clients. Largely focused on lowering the cost of security while increasing capabilities, Accenture Security provides end-to-end offerings enhanced through automation and backed by the partner ecosystem. Recent investments, including the opening of a Federal Cyber Center in San Antonio, Texas, and the purchases of Seattle-based Deja vu Security and Australia-based BCT Solutions, highlight the company&rsquo;s efforts to solidify its capabilities in core offerings including threat intelligence and elimination services as well as help expand its addressable market in the product development cycle for IoT controls. This will allow Accenture to secure hardware within solutions, a key service as the company embarks on hardware engineering. While leveraging its global network of security operation centers in both offshore and nearshore hubs will provide the scale necessary to support global clients with managed services, acquired IP from assets such as Deja vu Security and BCT Solutions elevates the intelligence Accenture Security provides at the chief information security officer level and above.</p>\"}}",
+        "subcategory_title": "As Accenture invests in emerging areas to fuel cloud opportunities, Accenture Security provides the trust needed to win new buyers",
+        "published_date": "2020-03-02T19:45:24.000Z",
+        "template_id": 27,
+        "subcategory_id": 4,
+        "created_by": 1,
+        "updated_by": 1,
+        "deleted_by": null,
+        "created_at": "2020-03-02T19:46:55.000Z",
+        "updated_at": null,
+        "deleted_at": null,
+        "template": {
+          "id": 27,
+          "name": "Current Scenarios",
+          "content": "<div class=\"row\">\n    <div class=\"tbr_position col-12\">\n       <div class=\"row\">\n          <div class=\"col-sm-4\">\n             <div class=\"col-sm-12\">\n                <h3 class=\"text_icon\">{scenario_discussions_section_strengths_icon} {scenario_discussions_section_strengths_title}</h3>\n                <div>\n                   {scenario_discussions_section_strengths_description}\n                </div>\n             </div>\n             <div class=\"col-sm-12\">\n                <h3 class=\"text_icon\">{scenario_discussions_section_weakness_icon} {scenario_discussions_section_weakness_title}</h3>\n                <div>\n                   {scenario_discussions_section_weakness_description}\n                </div>\n             </div>\n             <div class=\"col-sm-12\">\n                <h3 class=\"text_icon\">{scenario_discussions_section_opportunities_icon} {scenario_discussions_section_opportunities_title}</h3>\n                <div>\n                   {scenario_discussions_section_opportunities_description}\n                </div>\n             </div>\n             <div class=\"col-sm-12\">\n                <h3 class=\"text_icon\">{scenario_discussions_section_threats_icon} {scenario_discussions_section_threats_title}</h3>\n                <div>\n                   {scenario_discussions_section_threats_description}\n                </div>\n             </div>\n          </div>\n          <div class=\"col-sm-8\">\n             <h3>{scenario_discussions_section_scenario_title}</h3>\n             <div>\n                {scenario_discussions_section_scenario_description}\n             </div>\n          </div>\n       </div>\n    </div>\n </div>",
+          "subcategory_id": 4,
+          "is_active": 1,
+          "created_at": "2020-01-28T17:46:36.000Z",
+          "updated_at": null
+        }
+      },
+      {
+        "id": 243,
+        "data": "{\"product_portofolio_reference_title_1\":{\"type\":\"text\",\"value\":\"<p><strong>Accenture&rsquo;s Cloud Portfolio Mapped to TBR Taxonomy</strong></p>\"},\"product_portofolio_reference_description_1\":{\"type\":\"text\",\"value\":\"<p>&nbsp;</p>\\n<table style=\\\"border-collapse: collapse; width: 100%; border-color: #000000; border-style: solid;\\\" width=\\\"784\\\">\\n<tbody>\\n<tr style=\\\"border-color: #7e8c8d; border-style: solid;\\\">\\n<td>\\n<p><strong>Public: </strong><strong>N/A</strong></p>\\n</td>\\n<td style=\\\"border-color: #7e8c8d; border-style: solid;\\\">\\n<p><strong>Private: $152.6M</strong></p>\\n</td>\\n<td>\\n<p><strong>Professional Services and Managed Services: $2.4B</strong></p>\\n</td>\\n</tr>\\n<tr style=\\\"border-color: #7e8c8d; border-style: solid;\\\">\\n<td width=\\\"270\\\">\\n<p><strong>SaaS</strong>: N/A</p>\\n</td>\\n<td style=\\\"border-color: #7e8c8d; border-style: solid;\\\" width=\\\"237\\\">\\n<p><strong>Dynamic</strong> <strong>Apps</strong>: N/A</p>\\n</td>\\n<td width=\\\"277\\\">\\n<p><strong>Application</strong> <strong>Development and Maintenance (ADM)</strong>: $92M</p>\\n<p>Cloud Application Development</p>\\n<p>Data Management and Analytics</p>\\n<p>Application Security Services</p>\\n<p>Accenture Software</p>\\n</td>\\n</tr>\\n<tr style=\\\"border-color: #7e8c8d; border-style: solid;\\\">\\n<td width=\\\"270\\\">\\n<p><strong>IaaS</strong>: N/A</p>\\n</td>\\n<td style=\\\"border-color: #7e8c8d; border-style: solid;\\\" width=\\\"237\\\">\\n<p><strong>IaaS</strong>: N/A</p>\\n</td>\\n<td width=\\\"277\\\">\\n<p><strong>Systems Integration</strong>: $911M</p>\\n<p>Cloud-enabled Systems</p>\\n<p>&nbsp;&nbsp; Integration</p>\\n</td>\\n</tr>\\n<tr style=\\\"border-color: #7e8c8d; border-style: solid;\\\">\\n<td width=\\\"270\\\">\\n<p><strong>PaaS</strong>: N/A</p>\\n</td>\\n<td style=\\\"border-color: #7e8c8d; border-style: solid;\\\" width=\\\"237\\\">\\n<p><strong>PaaS</strong>: $124.8M</p>\\n<p>Accenture Cloud Platform</p>\\n<p>Cloud Application and Platform Management</p>\\n</td>\\n<td width=\\\"277\\\">\\n<p><strong>Consulting</strong>: $770M</p>\\n<p>Cloud Strategy Methodology</p>\\n<p>Cloud Opportunity Assessment Tool</p>\\n<p>Cloud Market Insights</p>\\n<p>SaaS Strategy</p>\\n</td>\\n</tr>\\n<tr style=\\\"border-color: #7e8c8d; border-style: solid;\\\">\\n<td width=\\\"270\\\">\\n<p><strong>BPaaS</strong>: N/A</p>\\n</td>\\n<td style=\\\"border-color: #7e8c8d; border-style: solid;\\\" width=\\\"237\\\">\\n<p><strong>Business</strong> <strong>Platform</strong>: $27.8M</p>\\n<p>Industry-specific BPaaS</p>\\n<p>Accenture Cloud Platform</p>\\n<p>SynOps</p>\\n</td>\\n<td width=\\\"277\\\">\\n<p><strong>Managed</strong> <strong>Services</strong>: $654M</p>\\n<p>SaaS Implementation</p>\\n<p>SaaS Operations</p>\\n</td>\\n</tr>\\n</tbody>\\n</table>\\n<p>&nbsp;</p>\"}}",
+        "subcategory_title": "Driven by a consulting-led business model, Accenture’s cloud business is primarily generated by C&SI and managed services",
+        "published_date": "2020-03-02T19:49:05.000Z",
+        "template_id": 40,
+        "subcategory_id": 13,
+        "created_by": 1,
+        "updated_by": null,
+        "deleted_by": null,
+        "created_at": "2020-03-02T19:54:41.000Z",
+        "updated_at": null,
+        "deleted_at": null,
+        "template": {
+          "id": 40,
+          "name": "Product Portofolio References",
+          "content": "<div class=\"row\">\n \t<div class=\"col-xl-4\">\n \t\t<h5 class=\"text_icon\">{product_portofolio_reference_title_1}</h5>\n \t\t<div>\n \t\t\t{product_portofolio_reference_description_1}\n \t\t</div>\n \t</div>\n \t<div class=\"col-xl-4\">\n \t\t<h5 class=\"text_icon\">{product_portofolio_reference_title_1}</h5>\n \t\t<div>\n \t\t\t{product_portofolio_reference_description_1}\n \t\t</div>\n \t</div>\n\t<div class=\"col-xl-4\">\n \t\t<h5 class=\"text_icon\">{product_portofolio_reference_title_1}</h5>\n \t\t<div>\n \t\t\t{product_portofolio_reference_description_1}\n \t\t</div>\n \t</div>\n </div>",
+          "subcategory_id": 13,
+          "is_active": 1,
+          "created_at": "2020-01-29T12:02:04.000Z",
+          "updated_at": null
+        }
+      },
+      {
+        "id": 244,
+        "data": "{\"finanicial_modal_strategy_section_revenue_title\":{\"type\":\"text\",\"value\":\"<p><strong>Revenue and Expense Performance and Strategies</strong></p>\"},\"finanicial_modal_strategy_section_revenue_description\":{\"type\":\"text\",\"value\":\"<table width=\\\"565\\\">\\n<tbody>\\n<tr>\\n<td width=\\\"95\\\">\\n<p><strong>Revenue</strong></p>\\n<p>$2,579M</p>\\n</td>\\n<td width=\\\"470\\\">\\n<p>Accenture reported revenues in &ldquo;the new&rdquo; contributed 65% of corporate sales in FY19. TBR estimates Accenture&rsquo;s cloud business revenue grew 20.4% year-to-year in 3Q19 to $2.6 billion. Accenture benefited from its broad-based investments including ICI and cloud platforms. Accenture&rsquo;s legacy consulting capabilities, paired with ongoing investments in &ldquo;as a Service&rdquo; proprietary and codeveloped solutions, helped the company position itself to capitalize on demand for application modernization and migration services, illustrated by deal wins with the U.S. Navy Bureau of Medicine and Surgery, Exxaro, and Radisson Hotel Group, among others. Accenture&rsquo;s consistent investments to train its talent, fill talent gaps with M&amp;A, and extend its automation, analytics and security offerings around the Accenture Cloud Platform positioned the company for robust cloud growth in FY19.</p>\\n</td>\\n</tr>\\n<tr>\\n<td width=\\\"95\\\">\\n<p><strong>Cost of Sales</strong></p>\\n<p>$1,785M</p>\\n</td>\\n<td width=\\\"470\\\">\\n<p>In line with corporate trends, cost of services as a percentage of revenue decreased 30 basis points year-to-year to 69.2% during the quarter. Automation-enabled cloud service delivery offset additional costs associated with building out specialized and certified cloud development resources.</p>\\n</td>\\n</tr>\\n<tr>\\n<td width=\\\"95\\\">\\n<p><strong>Operating Margin</strong></p>\\n</td>\\n<td width=\\\"470\\\">\\n<p>TBR estimates Accenture&rsquo;s cloud operating margin increased 20 basis points year-to-year to 13.4% in 3Q19. Accenture benefited from leveraging platforms such as myWizard and SynOps for automated project management and industrialized service delivery.</p>\\n</td>\\n</tr>\\n</tbody>\\n</table>\"},\"finanicial_modal_strategy_section_expensive_title\":{\"type\":\"empty\",\"value\":\"\"},\"finanicial_modal_strategy_section_expensive_description\":{\"type\":\"text\",\"value\":\"\"},\"finanicial_modal_strategy_section_graph1\":{\"type\":\"text\",\"value\":\"<p><img src=\\\"https://tbr-ggk.s3.us-east-2.amazonaws.com/production/acc3-10207-1583179051548.CjIyBtfOyA1jnf6%2B58\\\" alt=\\\"\\\" width=\\\"338\\\" height=\\\"187\\\" /></p>\"},\"finanicial_modal_strategy_section_graph2\":{\"type\":\"text\",\"value\":\"<p><img src=\\\"https://tbr-ggk.s3.us-east-2.amazonaws.com/production/acc4-10686-1583179001272.7vu\\\" alt=\\\"\\\" width=\\\"537\\\" height=\\\"264\\\" /></p>\"}}",
+        "subcategory_title": "Investments in AI-based services, security and automation enable \u000bAccenture to cross-sell and upsell clients on cloud, driving profitable growth",
+        "published_date": "2020-03-02T19:54:48.000Z",
+        "template_id": 32,
+        "subcategory_id": 5,
+        "created_by": 1,
+        "updated_by": 1,
+        "deleted_by": null,
+        "created_at": "2020-03-02T19:56:50.000Z",
+        "updated_at": null,
+        "deleted_at": null,
+        "template": {
+          "id": 32,
+          "name": "Financial Strategy",
+          "content": "<div>\n<div class=\"row\">\n   <div class=\"col-sm-6\">\n      <h5>{finanicial_modal_strategy_section_revenue_title}</h5>\n      <div>\n         {finanicial_modal_strategy_section_revenue_description}\n      </div>\n   </div>\n   <div class=\"col-sm-6\">\n      <h5>{finanicial_modal_strategy_section_expensive_title}</h5>\n      <div>\n         {finanicial_modal_strategy_section_expensive_description}\n      </div>\n   </div>\n</div>\n<div class=\"row\">\n   <div class=\"col-sm-6\">\n      {finanicial_modal_strategy_section_graph1}\n   </div>\n   <div class=\"col-sm-6\">\n      {finanicial_modal_strategy_section_graph2}\n   </div>\n</div>\n</div>",
+          "subcategory_id": 5,
+          "is_active": 1,
+          "created_at": "2020-01-28T17:55:58.000Z",
+          "updated_at": null
+        }
+      },
+      {
+        "id": 245,
+        "data": "{\"financial_segment_analysis_1\":{\"type\":\"text\",\"value\":\"<p><strong>Cloud Professional Services</strong></p>\\n<p>Cloud professional services continues to carry Accenture&rsquo;s cloud business, contributing 94.1% of total cloud revenue and reaching $2.4 billion in 3Q19. We believe Accenture&rsquo;s cloud business benefits from the company&rsquo;s ability to consult on operations across key verticals and provide migration and implementation services in cloud- and hybrid-based environments. Accenture&rsquo;s strong portfolio and investments in cloud delivery personnel enable the company to drive long-term CX-centric managed services opportunities, which grew 16.4% year-to-year in 3Q19. In a back-office, cloud-based transformation deal that also provides front-office connectivity, Accenture will deploy Accenture Freight &amp; Logistics Software to optimize Virgin Atlantic&rsquo;s cargo management system, replacing outgoing vendor Voyager. In a deal win with FieldCore, a GE company, Accenture will implement SAP SuccessFactors Employee Central and WorkForce Software, supporting FieldCore&rsquo;s HR transformation initiative centered on the development of an integrated, automated and interoperable data management system.</p>\\n<p>Accenture continues to invest in its security practice, which we believe will help ease clients&rsquo; security concerns around migrating applications to cloud environments. Some of the company&rsquo;s recent investments include the opening of a Federal Cyber Center in San Antonio and the purchases of Seattle-based Deja vu Security and Australia-based BCT Solutions.</p>\"},\"financial_segment_analysis_2\":{\"type\":\"text\",\"value\":\"<p><strong>Private Cloud</strong></p>\\n<p>Private cloud revenue grew 21% year-to-year to $153 million in 3Q19 as Accenture benefited from client demand for deploying interoperable solutions that integrate first- and third-party data with legacy IT assets. We expect Accenture to capitalize on its partnerships with SAP, Microsoft, Oracle, VMware and Hewlett Packard Enterprise (HPE). SAP and Microsoft, along with Adobe, continue to evolve opportunities around the Open Data Initiative. Microsoft and Oracle recently announced they would link data between Microsoft Azure and Oracle Cloud, allowing customers to extend their on-premises data centers to both clouds.</p>\"},\"financial_segment_analysis_3\":{\"type\":\"text\",\"value\":\"<p><img src=\\\"https://tbr-ggk.s3.us-east-2.amazonaws.com/production/acc5-10957-1583179141502.E\\\" alt=\\\"\\\" width=\\\"641\\\" height=\\\"376\\\" /></p>\"},\"financial_segment_analysis_4\":{\"type\":\"empty\",\"value\":\"\"}}",
+        "subcategory_title": "The ability to address security concerns expands Accenture’s value proposition around cloud and leads to managed services opportunities",
+        "published_date": "2020-03-02T19:57:53.000Z",
+        "template_id": 37,
+        "subcategory_id": 10,
+        "created_by": 1,
+        "updated_by": null,
+        "deleted_by": null,
+        "created_at": "2020-03-02T19:59:10.000Z",
+        "updated_at": null,
+        "deleted_at": null,
+        "template": {
+          "id": 37,
+          "name": "Financial Segment Analysis",
+          "content": "<div>\n\t<div class=\"row\">\n\t\t<div class=\"col-xl-6\">\n\t\t\t{financial_segment_analysis_1}\n\t\t</div>\n\t\t<div class=\"col-xl-6\">\n\t\t\t{financial_segment_analysis_2}\n\t\t</div>\n\t</div>\n\t<div class=\"row\">\n\t\t<div class=\"col-xl-6\">\n\t\t\t{financial_segment_analysis_3}\n\t\t</div>\n\t\t<div class=\"col-xl-6\">\n\t\t\t{financial_segment_analysis_4}\n\t\t</div>\n\t</div>\n</div>",
+          "subcategory_id": 10,
+          "is_active": 1,
+          "created_at": "2020-01-29T11:43:21.000Z",
+          "updated_at": null
+        }
+      },
+      {
+        "id": 246,
+        "data": "{\"financial_geographical_analysis_1\":{\"type\":\"text\",\"value\":\"<p><strong>Geographic Strategy</strong></p>\"},\"financial_geographical_analysis_2\":{\"type\":\"text\",\"value\":\"<table width=\\\"905\\\">\\n<tbody>\\n<tr>\\n<td width=\\\"96\\\">&nbsp;</td>\\n<td width=\\\"312\\\">\\n<p style=\\\"text-align: center;\\\"><strong><img src=\\\"https://tbr-ggk.s3.us-east-2.amazonaws.com/production/na1-2714-1583179223376.kFXVle%2BNthECIYSy4pRShqp0CG\\\" alt=\\\"\\\" width=\\\"176\\\" height=\\\"202\\\" /></strong></p>\\n<p style=\\\"text-align: center;\\\"><strong>Americas</strong></p>\\n</td>\\n<td width=\\\"242\\\">\\n<p><strong><img style=\\\"display: block; margin-left: auto; margin-right: auto;\\\" src=\\\"https://tbr-ggk.s3.us-east-2.amazonaws.com/production/emea1-9657-1583179278022.T8x\\\" alt=\\\"\\\" width=\\\"169\\\" height=\\\"205\\\" /></strong></p>\\n<p style=\\\"text-align: center;\\\"><strong>EMEA</strong></p>\\n</td>\\n<td width=\\\"255\\\">\\n<p><strong><img style=\\\"display: block; margin-left: auto; margin-right: auto;\\\" src=\\\"https://tbr-ggk.s3.us-east-2.amazonaws.com/production/apac1-9452-1583179299399.90A\\\" alt=\\\"\\\" width=\\\"182\\\" height=\\\"213\\\" /></strong></p>\\n<p style=\\\"text-align: center;\\\"><strong>APAC</strong></p>\\n</td>\\n</tr>\\n<tr>\\n<td width=\\\"96\\\">\\n<p><strong>Key Strategies</strong></p>\\n</td>\\n<td width=\\\"312\\\">\\n<p>The U.S. remains Accenture&rsquo;s core cloud market as regional clients showcase maturity in adopting &ldquo;as a Service&rdquo; offerings that can enable broader digital transformation initiatives. With Accenture Technology remaining the key contributor to regional performance, we expect the company&rsquo;s investments in ICI services supporting multicloud management capabilities to remain at the forefront into FY20. Accenture will also seek to diversify its cloud revenue stream, taking advantage of an uptick in demand from government agencies seeking to optimize IT infrastructure through &ldquo;as a Service&rdquo; solutions, evidenced by a multiyear deal with the Department of Energy for cloud migration.</p>\\n</td>\\n<td width=\\\"242\\\">\\n<p>Accenture&rsquo;s cloud business benefits from its corporatewide strategy of scaling Technology Innovation Centers, Industry X.0 and Liquid Studios, creating opportunities for expanding into local client accounts with recent openings in Alicante and Bilbao, Spain; and Stuttgart, Germany. Accenture&rsquo;s deal wins with Air France KLM Martinair Cargo in the Netherlands and Exxaro in South Africa highlight the company&rsquo;s ability to provide locally sourced data-compliant services.</p>\\n</td>\\n<td width=\\\"255\\\">\\n<p>While APAC will remain Accenture&rsquo;s smallest regional generator, over the past year the company ramped up investments in the region, emphasizing countries such as Australia, Japan, India, China and Singapore. Similar to its activity in the U.S. and EMEA, Accenture opened an Innovation Hub in Shenzhen, China. As part of a deal with Inland Revenue in New Zealand, Accenture will provide managed services, including implementation and testing of Oracle&rsquo;s Enterprise Support Services Software, supporting IT modernization of Inland Revenue&rsquo;s business processes.</p>\\n</td>\\n</tr>\\n</tbody>\\n</table>\"}}",
+        "subcategory_title": "Accenture Technology fuels opportunities in the U.S. as the company builds local footholds in EMEA and APAC to offer compliant services",
+        "published_date": "2020-03-02T19:59:19.000Z",
+        "template_id": 38,
+        "subcategory_id": 11,
+        "created_by": 1,
+        "updated_by": null,
+        "deleted_by": null,
+        "created_at": "2020-03-02T20:02:32.000Z",
+        "updated_at": null,
+        "deleted_at": null,
+        "template": {
+          "id": 38,
+          "name": "Financial Geographic Analysis",
+          "content": "<div>\n\t<div class=\"row\">\n\t\t<div class=\"col-xl-12\">\n\t\t\t{financial_geographical_analysis_1}\n\t\t</div>\n\t</div>\n\t<div class=\"row\">\n\t\t<div class=\"col-xl-12\">\n\t\t\t{financial_geographical_analysis_2}\n\t\t</div>\n\t</div>\n</div>",
+          "subcategory_id": 11,
+          "is_active": 1,
+          "created_at": "2020-01-29T11:46:24.000Z",
+          "updated_at": null
+        }
+      },
+      {
+        "id": 247,
+        "data": "{\"goto_market_title\":{\"type\":\"text\",\"value\":\"<p><strong>TBR Assessment of</strong><strong> Accenture&rsquo;s Go-to-market Strategy</strong></p>\"},\"goto_market_sub_title\":{\"type\":\"text\",\"value\":\"<p><strong>Segment</strong></p>\"},\"goto_market_description_left\":{\"type\":\"text\",\"value\":\"<p><strong>Large Enterprise: </strong>At the corporate level, large enterprise clients remain the core target market for Accenture, including within its cloud business. Accenture&rsquo;s consulting-led model enables the company to build relationships with the C-Suite and tie in additional services opportunities, such as addressing CxOs&rsquo; concerns around cloud migration by bringing in Accenture Security. Accenture typically aligns with technology partners that share similar target markets, such as its business groups formed with Oracle, SAP, Google, AWS, Microsoft and Alibaba.</p>\\n<p><strong>SMB:</strong> Accenture Ventures focuses on collaborating with startups, and we expect Accenture may have opportunities to test solutions with SMB clients before scaling them up to the enterprise level. In June Accenture Ventures, along with Goldman Sachs, invested $50 million in SaaS testing and experiential platform provider Optimizely in a Series D funding round. Additionally, Accenture Ventures selected the top six startups as part of its open innovation program in India, one of which is a cloud-based, AI-enabled software solutions provider.</p>\\n<p><strong>Vertical: </strong>Across all of its verticals, Accenture arms consultants with industry-specific solutions. Accenture launched the cloud-ready technology platform INTIENT to collect, store, monitor and analyze data from life sciences clients&rsquo; business environments.</p>\\n<p><strong>Geographic: </strong>Accenture continues to invest in local markets, notably in the more mature cloud regions of North America and Europe, like in Spain and France. But as cloud adoption spreads globally, South America is becoming an emerging region for digital transformation, as indicated by the acquisitions of Pragsis Bidoop and INSITUM. Accenture&rsquo;s steady investments in APAC, similar to its regional relationship expansion with Google Cloud in Indonesia, suggest clients are seeking local support related to data migration and management.</p>\"},\"goto_market_graph\":{\"type\":\"empty\",\"value\":\"\"},\"goto_market_sub_title_right\":{\"type\":\"text\",\"value\":\"<p><strong>Strategic Outlook</strong></p>\"},\"goto_market_description_right\":{\"type\":\"text\",\"value\":\"<p>Investing across all segments, along with deploying the Accenture Innovation Architecture framework, positions Accenture to capture automation-enabled cloud migration and managed services opportunities. Investing in regional operations further strengthens Accenture&rsquo;s trust with local buyers as they seek data-compliant multicloud management providers.</p>\"},\"goto_market_sub_title_2\":{\"type\":\"empty\",\"value\":\"\"},\"goto_market_description_right_2\":{\"type\":\"text\",\"value\":\"<p><img src=\\\"https://tbr-ggk.s3.us-east-2.amazonaws.com/production/acc6-7752-1583179570663.CSXGQhDFkIrFnM4gsPZBnDZsEXZjBsYBqyg2F94R1sdU\\\" alt=\\\"\\\" /></p>\"}}",
+        "subcategory_title": "Investing locally solidifies trust as Accenture relies on its established brand to drive enterprisewide transformation discussions ",
+        "published_date": "2020-03-02T20:04:15.000Z",
+        "template_id": 33,
+        "subcategory_id": 6,
+        "created_by": 1,
+        "updated_by": null,
+        "deleted_by": null,
+        "created_at": "2020-03-02T20:06:51.000Z",
+        "updated_at": null,
+        "deleted_at": null,
+        "template": {
+          "id": 33,
+          "name": "Go To Market",
+          "content": "<div class=\"row\">\n <div class=\"col-12\">\n   <h5><b>{goto_market_title}</b></h5>\n   <div class=\"row\">\n      <div class=\"col-sm-6\">\n         <div class=\"col-12\">\n            <h5><b>{goto_market_sub_title}</b></h5>\n            <div>\n               {goto_market_description_left}\n            </div>\n            <div class=\"col-12\">\n               {goto_market_graph}\n            </div>\n         </div>\n      </div>\n      <div class=\"col-sm-6\">\n         <div class=\"col-12\">\n            <h5><b>{goto_market_sub_title_right}</b></h5>\n            <div>\n               {goto_market_description_right}\n            </div>\n         </div>\n         <div class=\"col-12\">\n            <h5><b>{goto_market_sub_title_2}</b></h5>\n            <div>\n               {goto_market_description_right_2}\n            </div>\n         </div>\n      </div>\n   </div>\n   </div>\n</div>",
+          "subcategory_id": 6,
+          "is_active": 1,
+          "created_at": "2020-01-28T17:57:40.000Z",
+          "updated_at": null
+        }
+      },
+      {
+        "id": 248,
+        "data": "{\"goto_market_title\":{\"type\":\"empty\",\"value\":\"\"},\"goto_market_sub_title\":{\"type\":\"text\",\"value\":\"<p><strong>TBR Assessment of Accenture&rsquo;s Cloud Go-to-market Strategy</strong></p>\"},\"goto_market_description_left\":{\"type\":\"text\",\"value\":\"<p>Accenture&rsquo;s cloud portfolio developments closely resonate with the company&rsquo;s corporate initiatives that are largely focused on developing a sustainable nonlinear growth model through offering &ldquo;as a Service&rdquo; solutions. Oracle&rsquo;s recent announcement about launching an autonomous operating system will further enable SI partners such as Accenture to achieve nonlinearity. Upskilling, though, must remain at the forefront of Accenture&rsquo;s go-to-market agenda for it to avoid performance erosion as a result of massive departures.</p>\"},\"goto_market_graph\":{\"type\":\"empty\",\"value\":\"\"},\"goto_market_sub_title_right\":{\"type\":\"empty\",\"value\":\"\"},\"goto_market_description_right\":{\"type\":\"empty\",\"value\":\"\"},\"goto_market_sub_title_2\":{\"type\":\"empty\",\"value\":\"\"},\"goto_market_description_right_2\":{\"type\":\"empty\",\"value\":\"\"}}",
+        "subcategory_title": "Coinnovating with partners and investing in engineering ‘as a Service’ offerings will help Accenture drive nonlinearity; upskilling is a must",
+        "published_date": "2020-03-02T20:20:42.000Z",
+        "template_id": 33,
+        "subcategory_id": 6,
+        "created_by": 1,
+        "updated_by": null,
+        "deleted_by": null,
+        "created_at": "2020-03-02T20:21:37.000Z",
+        "updated_at": null,
+        "deleted_at": null,
+        "template": {
+          "id": 33,
+          "name": "Go To Market",
+          "content": "<div class=\"row\">\n <div class=\"col-12\">\n   <h5><b>{goto_market_title}</b></h5>\n   <div class=\"row\">\n      <div class=\"col-sm-6\">\n         <div class=\"col-12\">\n            <h5><b>{goto_market_sub_title}</b></h5>\n            <div>\n               {goto_market_description_left}\n            </div>\n            <div class=\"col-12\">\n               {goto_market_graph}\n            </div>\n         </div>\n      </div>\n      <div class=\"col-sm-6\">\n         <div class=\"col-12\">\n            <h5><b>{goto_market_sub_title_right}</b></h5>\n            <div>\n               {goto_market_description_right}\n            </div>\n         </div>\n         <div class=\"col-12\">\n            <h5><b>{goto_market_sub_title_2}</b></h5>\n            <div>\n               {goto_market_description_right_2}\n            </div>\n         </div>\n      </div>\n   </div>\n   </div>\n</div>",
+          "subcategory_id": 6,
+          "is_active": 1,
+          "created_at": "2020-01-28T17:57:40.000Z",
+          "updated_at": null
+        }
+      },
+      {
+        "id": 249,
+        "data": "{\"resource_graph1\":{\"type\":\"text\",\"value\":\"<p><strong>Alliances</strong></p>\"},\"resource_description\":{\"type\":\"text\",\"value\":\"<p>Accenture continues to maintain a large partner ecosystem with leading cloud and software vendors to codevelop offerings and capture cloud professional services business surrounding cloud adoption and migration to partners&rsquo; clouds.</p>\\n<p>As part of Project Elevate, Accenture deepened its relationship with SAP to codevelop industry-centric solutions leveraging SAP C/4HANA and targeting front-office opportunities around improving CX. As part of the relationship, the two formed a consortium with automotive OEMs as well as business-to-business component manufacturing and utilities vendors to gain insights around CX pain points for these industries. Additionally, Accenture integrated Qualtrics&rsquo; EmployeeXM suite into the myConcerto platform&rsquo;s Intelligent Enterprise Talent and HR solutions, supporting Accenture&rsquo;s efforts to pursue BPaaS transformation opportunities. Further, Accenture and SAP collaborated on adding new capabilities to the SAP Recipe Development application, which targets clients within the consumer goods, chemicals and life sciences industries that are seeking to improve customer services through greater data transparency.</p>\\n<p>Accenture, through its partnership with Oracle, launched the technology platform INTIENT to collect, store, monitor and analyze data from life sciences clients&rsquo; business environments. The platform leverages Accenture Applied Intelligence to provide AI and analytics services, improving efficiency and management, as well as Oracle Health Sciences Data Management Workbench and Oracle Life Sciences Data Hub. The solution is run on Oracle Cloud Infrastructure and backed by Oracle Cloud Managed Services. In a collaborative agreement with Bayer, Accenture implemented the Accenture INTIENT Clinical platform to streamline Bayer&rsquo;s drug development processes, leveraging Oracle cloud technologies to provide a consolidated view of internal and external clinical data.</p>\"}}",
+        "subcategory_title": "",
+        "published_date": "2020-03-02T20:21:41.000Z",
+        "template_id": 35,
+        "subcategory_id": 8,
+        "created_by": 1,
+        "updated_by": null,
+        "deleted_by": null,
+        "created_at": "2020-03-02T20:22:37.000Z",
+        "updated_at": null,
+        "deleted_at": null,
+        "template": {
+          "id": 35,
+          "name": "Partner Strategy",
+          "content": "<div>\n\t<div class=\"row\">\n\t\t<div class=\"col-xl-6\">\n\t\t\t{resource_graph1}\n\t\t</div>\n\t\t<div class=\"col-xl-6\">\n\t\t\t{resource_description}\n\t\t</div>\n\t</div>\n\t<div class=\"row\">\n\t\t<div class=\"col-xl-6\">\n\t\t\t{resource_graph1}\n\t\t</div>\n\t\t<div class=\"col-xl-6\">\n\t\t\t{resource_description}\n\t\t</div>\n\t</div>\n</div>",
+          "subcategory_id": 8,
+          "is_active": 1,
+          "created_at": "2020-01-28T18:53:04.000Z",
+          "updated_at": null
+        }
+      },
+      {
+        "id": 250,
+        "data": "{\"acquisitions_references\":{\"type\":\"text\",\"value\":\"<p><strong>Acquisitions</strong></p>\\n<p>The acquisition of Fairway Technologies bolstered Accenture&rsquo;s Product and Platform Engineering services practice, adding 80 professionals in the U.S., who we expect will support Accenture&rsquo;s efforts to develop software-based platforms and create new client entry points.</p>\"}}",
+        "subcategory_title": "",
+        "published_date": "2020-03-02T20:22:21.000Z",
+        "template_id": 44,
+        "subcategory_id": 17,
+        "created_by": 1,
+        "updated_by": null,
+        "deleted_by": null,
+        "created_at": "2020-03-02T20:22:37.000Z",
+        "updated_at": null,
+        "deleted_at": null,
+        "template": {
+          "id": 44,
+          "name": "Acquisitions References",
+          "content": "<div class=\"row\">\n   <div class=\"col-sm-12\">\n   \t<div>\n\t\t{acquisitions_references}\n\t</div>\n   </div>\n</div>",
+          "subcategory_id": 17,
+          "is_active": 1,
+          "created_at": "2020-01-29T13:02:37.000Z",
+          "updated_at": null
+        }
+      },
+      {
+        "id": 251,
+        "data": "{\"strategic_initiatives_revenue_title\":{\"type\":\"text\",\"value\":\"<p><strong>Strategy and Investments</strong></p>\"},\"strategic_initiatives_revenue_description\":{\"type\":\"text\",\"value\":\"<p>Expanding its cloud-trained delivery staff remains at the forefront of Accenture&rsquo;s cloud resources management strategy, supporting the company&rsquo;s Cloud First framework. Establishing an on-site and nearshore presence for particular technologies, such as the recent launch of Liquid Studios for Pegasystems across selected Innovation Hubs as well as the launch of an Advanced Technology Center in Alicante, Spain, are some of the latest examples of how Accenture builds scale and deep design expertise. Accenture opened Industry X.0 hubs in Spain and Germany and unveiled plans to expand its Greece operations, including hiring 200 professionals with skills in SAP, Oracle, Microsoft, AI, robotic process automation and machine learning, among other emerging technologies and software languages. Acquisitions also remain a factor, helping Accenture gain IP and fill skill gaps in particular areas. For example, the purchase of Cirruseo added 100 Google Cloud-trained professionals. Lastly, Accenture expanded its apprenticeship program in St. Louis and, along with Corteva Agriscience, unveiled a pilot program to train students from Des Moines Area Community College in Des Moines, Iowa, in technology and software languages.</p>\"},\"strategic_initiatives_venture_title\":{\"type\":\"text\",\"value\":\"<p><strong>Accenture&rsquo;s</strong> <strong>Global Delivery Network</strong></p>\"},\"strategic_initiatives_venture_description\":{\"type\":\"text\",\"value\":\"<p><img src=\\\"https://tbr-ggk.s3.us-east-2.amazonaws.com/production/acc7-9876-1583181049809.RG0qP6G0ZtOGCporr5R6ra4ghSivAU6Q0mggwAtCEAEpBKSKKSAhOYGQkkAoAiTskJAAKU9d1%2BckJyUhFUkg5LnrM\\\" alt=\\\"\\\" width=\\\"350\\\" height=\\\"278\\\" /></p>\"},\"strategic_initiatives_business_title\":{\"type\":\"text\",\"value\":\"<p><strong>TBR Assessment</strong></p>\"},\"strategic_initiatives_business_description\":{\"type\":\"text\",\"value\":\"<p>Building out certified talent at scale remains an important element of Accenture&rsquo;s strategy, especially as clients continue to migrate workloads to the cloud. In the long term, we expect labor shortages on the client side in areas such as SAP S/4HANA to benefit companies like Accenture, both from a change management and a managed services perspective.</p>\"},\"strategic_initiatives_scope_title\":{\"type\":\"empty\",\"value\":\"\"},\"strategic_initiatives_scope_description\":{\"type\":\"empty\",\"value\":\"\"}}",
+        "subcategory_title": "Adding cloud delivery resources with skills in areas such as SAP S/4HANA and Google Cloud will bolster Accenture’s resource strategy",
+        "published_date": "2020-03-02T20:22:44.000Z",
+        "template_id": 34,
+        "subcategory_id": 7,
+        "created_by": 1,
+        "updated_by": null,
+        "deleted_by": null,
+        "created_at": "2020-03-02T20:41:03.000Z",
+        "updated_at": null,
+        "deleted_at": null,
+        "template": {
+          "id": 34,
+          "name": "Resource Strategy",
+          "content": "<div class=\"row\">\n\t<div class=\"col-md-6 mb-3\">\n\t\t<h5><b>{strategic_initiatives_revenue_title}</b></h5>\n\t\t<div>\n\t\t\t{strategic_initiatives_revenue_description}\n\t\t</div>\n\t</div>\n\t<div class=\"col-md-6 mb-3\">\n\t\t<h5><b>{strategic_initiatives_venture_title}</b></h5>\n\t\t<div>\n\t\t\t{strategic_initiatives_venture_description}\n\t\t</div>\n\t</div>\n\t<div class=\"col-md-6 mb-3\">\n\t\t<h5><b>{strategic_initiatives_business_title}</b></h5>\n\t\t<div>\n\t\t\t{strategic_initiatives_business_description}\n\t\t</div>\n\t</div>\n\t<div class=\"col-md-6 mb-3\">\n\t\t<h5><b>{strategic_initiatives_scope_title}</b></h5>\n\t\t<div>\n\t\t\t{strategic_initiatives_scope_description}\n\t\t</div>\n\t</div>\n</div>",
+          "subcategory_id": 7,
+          "is_active": 1,
+          "created_at": "2020-01-28T17:59:23.000Z",
+          "updated_at": null
+        }
+      },
+      {
+        "id": 252,
+        "data": "{\"strategic_initiatives_revenue_title\":{\"type\":\"empty\",\"value\":\"\"},\"strategic_initiatives_revenue_description\":{\"type\":\"text\",\"value\":\"<p><img src=\\\"https://tbr-ggk.s3.us-east-2.amazonaws.com/production/acc8-10105-1583183590928.9z3vzXL3cpd9u\\\" alt=\\\"\\\" /></p>\"},\"strategic_initiatives_venture_title\":{\"type\":\"text\",\"value\":\"<p><strong>Headcount</strong><strong> Strategies</strong></p>\"},\"strategic_initiatives_venture_description\":{\"type\":\"text\",\"value\":\"<p>TBR estimates Accenture&rsquo;s cloud team reached 84,000 in 3Q19, an increase of 16.7% year-to-year as Accenture continued to invest in reskilling its employees to meet demand for services in &ldquo;the new.&rdquo; Revenue per employee decreased 1% year-to-year in 3Q19, an improvement from -3.7% year-to-year in 3Q18, as Accenture benefited from investments in automation in cloud asset management and delivery. Industrializing and scaling the use of myWizard for application services and SynOps to drive BPaaS opportunities are among the latest examples of Accenture&rsquo;s efforts to drive sustainable nonlinear growth. Additionally, Accenture&rsquo;s broad-based investments in reskilling and upskilling as well as its use of online platforms such as Accenture Connected Learning enable the company to offset classroom-based training costs and drive higher-value engagements. Accenture continued to build out its onshore presence, evidenced by office expansion in Chicago, which will serve in part to house 600 new recruits for the company&rsquo;s apprenticeship program.</p>\\n<p>As services from advising, implementing and managing solutions from large technology providers SAP, Oracle, Microsoft, Salesforce and Workday help generate about 40% of Accenture&rsquo;s total sales, we expect the company to continue to groom talent with cloud skills in these areas. Additionally, the recent partnership expansion with Google Cloud in Indonesia suggests Accenture is ramping up its Google-certified staff.</p>\"},\"strategic_initiatives_business_title\":{\"type\":\"empty\",\"value\":\"\"},\"strategic_initiatives_business_description\":{\"type\":\"empty\",\"value\":\"\"},\"strategic_initiatives_scope_title\":{\"type\":\"empty\",\"value\":\"\"},\"strategic_initiatives_scope_description\":{\"type\":\"empty\",\"value\":\"\"}}",
+        "subcategory_title": "Automation is taking center stage in Accenture’s cloud headcount strategy, helping to improve employee efficiency and fuel profitable sales",
+        "published_date": "2020-03-02T21:12:12.000Z",
+        "template_id": 34,
+        "subcategory_id": 7,
+        "created_by": 1,
+        "updated_by": null,
+        "deleted_by": null,
+        "created_at": "2020-03-02T21:13:19.000Z",
+        "updated_at": null,
+        "deleted_at": null,
+        "template": {
+          "id": 34,
+          "name": "Resource Strategy",
+          "content": "<div class=\"row\">\n\t<div class=\"col-md-6 mb-3\">\n\t\t<h5><b>{strategic_initiatives_revenue_title}</b></h5>\n\t\t<div>\n\t\t\t{strategic_initiatives_revenue_description}\n\t\t</div>\n\t</div>\n\t<div class=\"col-md-6 mb-3\">\n\t\t<h5><b>{strategic_initiatives_venture_title}</b></h5>\n\t\t<div>\n\t\t\t{strategic_initiatives_venture_description}\n\t\t</div>\n\t</div>\n\t<div class=\"col-md-6 mb-3\">\n\t\t<h5><b>{strategic_initiatives_business_title}</b></h5>\n\t\t<div>\n\t\t\t{strategic_initiatives_business_description}\n\t\t</div>\n\t</div>\n\t<div class=\"col-md-6 mb-3\">\n\t\t<h5><b>{strategic_initiatives_scope_title}</b></h5>\n\t\t<div>\n\t\t\t{strategic_initiatives_scope_description}\n\t\t</div>\n\t</div>\n</div>",
+          "subcategory_id": 7,
+          "is_active": 1,
+          "created_at": "2020-01-28T17:59:23.000Z",
+          "updated_at": null
+        }
+      },
+      {
+        "id": 253,
+        "data": "{\"organization_structure_reference_table_title\":{\"type\":\"empty\",\"value\":\"\"},\"organization_structure_reference_table\":{\"type\":\"text\",\"value\":\"<table width=\\\"897\\\">\\n<tbody>\\n<tr>\\n<td colspan=\\\"2\\\" width=\\\"897\\\">\\n<p><strong>ACCENTURE</strong> <strong>EXECUTIVE LEADERSHIP (AS</strong><strong> OF 3Q19)</strong></p>\\n</td>\\n</tr>\\n<tr>\\n<td width=\\\"206\\\">\\n<p><strong>Julie Sweet</strong></p>\\n</td>\\n<td width=\\\"691\\\">\\n<p>Chief Executive Officer</p>\\n</td>\\n</tr>\\n<tr>\\n<td width=\\\"206\\\">\\n<p><strong>Jo Deblaere </strong></p>\\n</td>\\n<td width=\\\"691\\\">\\n<p>Chief Operating Officer</p>\\n</td>\\n</tr>\\n<tr>\\n<td width=\\\"206\\\">\\n<p><strong>KC McClure</strong></p>\\n</td>\\n<td width=\\\"691\\\">\\n<p>Chief Financial Officer</p>\\n</td>\\n</tr>\\n<tr>\\n<td width=\\\"206\\\">\\n<p><strong>Paul R.</strong><strong> Daugherty</strong></p>\\n</td>\\n<td width=\\\"691\\\">\\n<p>Chief Technology and Innovation Officer</p>\\n</td>\\n</tr>\\n<tr>\\n<td width=\\\"206\\\">\\n<p><strong>Bhaskar Ghosh </strong></p>\\n</td>\\n<td width=\\\"691\\\">\\n<p>Group Chief Executive, Accenture Technology Services</p>\\n</td>\\n</tr>\\n<tr>\\n<td width=\\\"206\\\">\\n<p><strong>Debra A. Polishook </strong></p>\\n</td>\\n<td width=\\\"691\\\">\\n<p>Group Chief Executive, Accenture Operations</p>\\n</td>\\n</tr>\\n<tr>\\n<td width=\\\"206\\\">\\n<p><strong>Mark A. Knickrehm</strong></p>\\n</td>\\n<td width=\\\"691\\\">\\n<p>Group Chief Executive, Accenture Strategy</p>\\n</td>\\n</tr>\\n<tr>\\n<td width=\\\"206\\\">\\n<p><strong>Michael R. Sutcliff</strong></p>\\n</td>\\n<td width=\\\"691\\\">\\n<p>Group Chief Executive, Accenture Digital</p>\\n</td>\\n</tr>\\n</tbody>\\n</table>\\n<table width=\\\"897\\\">\\n<tbody>\\n<tr>\\n<td colspan=\\\"2\\\" width=\\\"897\\\">\\n<p><strong>ACCENTURE CLOUD EXECUTIVE LEADERSHIP (AS</strong><strong> OF 3Q19)</strong></p>\\n</td>\\n</tr>\\n<tr>\\n<td width=\\\"206\\\">\\n<p><strong>Kishore Durg </strong></p>\\n</td>\\n<td width=\\\"691\\\">\\n<p>Growth &amp; Strategy Lead for Technology Services, and Accenture Cloud Lead</p>\\n</td>\\n</tr>\\n<tr>\\n<td width=\\\"206\\\">\\n<p><strong>Prasad Sankaran</strong></p>\\n</td>\\n<td width=\\\"691\\\">\\n<p>Intelligent Cloud &amp; Infrastructure Services Lead, Accenture Technology Services</p>\\n</td>\\n</tr>\\n</tbody>\\n</table>\"}}",
+        "subcategory_title": "Accenture’s Organizational Structure",
+        "published_date": "2020-03-02T21:13:29.000Z",
+        "template_id": 42,
+        "subcategory_id": 15,
+        "created_by": 1,
+        "updated_by": null,
+        "deleted_by": null,
+        "created_at": "2020-03-02T21:14:33.000Z",
+        "updated_at": null,
+        "deleted_at": null,
+        "template": {
+          "id": 42,
+          "name": "Organization Structure References",
+          "content": "<div class=\"row\">\n   <div class=\"col-sm-12\">\n   \t<h5 class=\"text_icon\">{organization_structure_reference_table_title}</h5>\n\t<div>\n\t\t{organization_structure_reference_table}\n\t</div>\n   </div>\n</div>",
+          "subcategory_id": 15,
+          "is_active": 1,
+          "created_at": "2020-01-29T12:15:15.000Z",
+          "updated_at": null
+        }
+      }
+    ]
   }
 }
